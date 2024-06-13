@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jawidegan , Bachelor from Computer Science and IT , Graduated from Mogadishu University in Somalia , and Studied Big Data Engineer Certification
+- 👋 Hi, I’m @Jawidegan ,Bachelor of Computer Science and IT from Mogadishu University , and Studied Big Data Engineer Certification
 - 👀 I’m interested in Software Development and Database Administration
 - 🌱 I’m currently learning Python Programming and work for a Telecommunication company as a senior Database Administrator
 - 💞️ I’m looking to collaborate on different teams to share knowledge and getting apportunity to be freelancer software developer
