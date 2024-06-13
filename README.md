@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jawidegan ,Bachelor of Computer Science and IT from Mogadishu University , and Studied Big Data Engineer Certification
-- 👀 I’m interested in Software Development and Database Administration
+- 👀 I’m interested in Software Development and Database Development and have Experience of 10+ years in Database Administration
 - 🌱 I’m currently learning Python Programming and work for a Telecommunication company as a senior Database Administrator
 - 💞️ I’m looking to collaborate on different teams to share knowledge and getting apportunity to be freelancer software developer
 - 📫 My contacts : Email: jawiqabooban@gmail.com , Tel: +252615129870 / +2526850155555 / +252614158977 , Facebook:https://www.facebook.com/ismail.adam.524
